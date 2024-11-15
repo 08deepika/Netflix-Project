@@ -1,8 +1,9 @@
 # Netflix_dataset_Exploratory_Data_Analysis_Python_Project
-D:\Downloads
+
 
 **Overview**\
-This repository contains an Exploratory Data Analysis (EDA) Python project that focuses on analyzing and visualizing the Netflix dataset. The dataset consists of various attributes related to movies and TV shows available on the Netflix platform.
+This repository contains an Exploratory Data Analysis (EDA) Python project that focuses on analyzing and visualizing the Netflix dataset. The Netflix dataset consists of information about movies and TV shows available on the platform. Key attributes include the title, type (movie or TV show), release year, duration (for movies), number of seasons (for TV shows), genres, and country of origin. The dataset allows for the exploration of content distribution by type, genre, release trends over time, and the duration or length of movies and TV shows. It provides a comprehensive view of the variety and trends within Netflix’s content library, making it valuable for understanding content availability and user preferences.
+
 
 The main goal of this project is to gain insights into the content distribution, explore trends, and understand the characteristics of the content on Netflix.
 
