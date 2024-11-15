@@ -20,4 +20,4 @@ The main goal of this project is to gain insights into the content distribution,
 9.rating: Content rating.\
 10.duration: Duration of the content (for movies: in minutes, for TV shows: in seasons).\
 11.listed_in: Genre(s) of the content (may contain multiple genres).\
-12.description: Brief description of the content.\
+12.description: Brief description of the content.
