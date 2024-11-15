@@ -9,15 +9,15 @@ The main goal of this project is to gain insights into the content distribution,
 
 
 **The dataset includes the following columns:**\
-1.show_id: Unique identifier for each title.\
-2.type: Type of content (Movie or TV Show).\
-3.title: Title of the content.\
-4.director: Director(s) of the content (may contain multiple directors).\
-5.cast: Cast members (may contain multiple cast names).\
-6.country: Country of origin.\
-7.date_added: Date when the content was added to Netflix.\
-8.release_year: Year of release.\
-9.rating: Content rating.\
-10.duration: Duration of the content (for movies: in minutes, for TV shows: in seasons).\
-11.listed_in: Genre(s) of the content (may contain multiple genres).\
-12.description: Brief description of the content.
+1.**show_id:** Unique identifier for each title.\
+2.**type:** Type of content (Movie or TV Show).\
+3.**title:** Title of the content.\
+4.**director:** Director(s) of the content (may contain multiple directors).\
+5.**cast:** Cast members (may contain multiple cast names).\
+6.**country:** Country of origin.\
+7.**date_added:** Date when the content was added to Netflix.\
+8.**release_year:** Year of release.\
+9.**rating:** Content rating.\
+10.**duration:** Duration of the content (for movies: in minutes, for TV shows: in seasons).\
+11.**listed_in:** Genre(s) of the content (may contain multiple genres).\
+12.**description:** Brief description of the content.
